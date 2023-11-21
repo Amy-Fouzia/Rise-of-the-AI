@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\amyho\source\repos\Pong\Test\Entity.h(122,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\amyho\source\repos\Pong\Test\Entity.h(123,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\amyho\source\repos\Pong\Test\main.cpp(157,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amyho\source\repos\Pong\Test\main.cpp(289,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\amyho\source\repos\Pong\Test\main.cpp(535,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\amyho\source\repos\Pong\Test\main.cpp(540,83): warning C4305: 'argument': truncation from 'double' to 'float'
+  Test.vcxproj -> C:\Users\amyho\source\repos\Pong\Debug\Test.exe
